@@ -1,1 +1,1 @@
-web: gunicorn quicknote.wsgi
+web: gunicorn quicknote/quicknote.wsgi
